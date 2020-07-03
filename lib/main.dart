@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       brightness:Brightness.dark,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home:homepage(),
+      home:HomePage(),
     );
   }
 }
